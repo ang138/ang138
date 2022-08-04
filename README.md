@@ -2,6 +2,7 @@
 
 สวัสดีครับผมชื่ออีลฮัม ยามะแอ ชื่อเล่นอัง อายุ21แล่ว บ้านอยู่นราธิวาส<br>
 ขอบคุณครับ
+![pg](https://www.facebook.com/messenger_media/?thread_id=100005126953730&attachment_id=781003736389397&message_id=mid.%24cAAAAAlCg6biIj7mChmCXnQw31kMC)
 
 <!--
 **ang138/ang138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
