@@ -1,5 +1,8 @@
 ### My Profile
 
+สวัสดีครับผมชื่ออีลฮัม ยามะแอ ชื่อเล่นอัง อายุ21แล่ว
+บ้านอยู่นราธิวาส
+
 <!--
 **ang138/ang138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
