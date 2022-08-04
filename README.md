@@ -2,7 +2,7 @@
 
 สวัสดีครับผมชื่ออีลฮัม ยามะแอ ชื่อเล่นอัง อายุ21แล่ว บ้านอยู่นราธิวาส<br>
 ขอบคุณครับ
-![pg](https://www.pinterest.com/passpon/%E0%B9%81%E0%B8%A1%E0%B8%A7/)
+
 
 <!--
 **ang138/ang138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
